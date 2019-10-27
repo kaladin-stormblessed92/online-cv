@@ -7,194 +7,134 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ketan Rajvadiya
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ketanrajvadiya@gmail.com
+    phone: 
+    website:  #do not add http://
+    linkedin: ketanrajvadiya
+    github: kaladin-stormblessed92
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Gujarati
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Movies
         link:
 
-      - item: Snowboarding
+      - item: Gaming
         link:
 
-      - item: Cooking
+      - item: Reading Novels
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Software Developer with more than 5 years of experience in design and development 
+      of production grade scalable solutions.Expert in translating business requirements 
+      into technical solutions; and fanatical about quality, usability and security.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Information Technology
+      university: DHARAMSINH DESAI UNIVERSITY
+      time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        CGPA : 8.52
 experiences:
-    - role: Lead Developer
+    - role: Software Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: ECLINICALWORKS INDIA PVT. LTD., Ahmedabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        EHR Electronic Health Record) contains the standard medical and clinical data gathered in provider's office. An EHR is mostly
+        used by providers for diagnosis and treatment. EHR data can be created,managed and consulted by authorized providers and
+        staff from across more than one health care organization. Unified with the Practice Management system, patient flow from
+        check-in to departure is streamlined. It consists work flow from the front desk to physicians to billing office.
 
-          - Bullet point
-          - Bullet point
+          - Projects on which I have worked are EMR (V11, V10) , Acute Care and Framework Design.
+          - Currently leading in technical design and development of core billing modules in EMR.
+          - Designed, Developed and Delivered server side data validation framework to make legacy system compliant with ISO Standards.
+          - Developed validation framework to provide automated solution for manual payment reconciliation done by billers resulted into 200% productivity hike.
+          - Designed end to end solution for credentialing process of provider and reduced processing time from 3 weeks to 1 day.
+          - Developed JWT based cross system communication framework to fix critical security vulnerability in a system.
 
-    - role: Senior Software Engineer
+    - role: Assistant Systems Engineer
       time: 2014 - 2015
-      company: Google, London
+      company: TATA CONSULTANCY SERVICES, Gandhinagar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Worked on a Taxation project of a African country.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Developed excise module and integrated it with existing taxation workflow. Received appreciation for timely & bug free delivery.
 
 projects:
-    title: Projects
+    title: Hobby Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
 
     assignments:
-      - title: Velocity
+      - title: Library Management System (LMS)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "End to End open source libary management solution developed in Jersey, JAVA, Mysql"
 
-      - title: DevStudio
+      - title: Personal Project Management (PPM)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Personal Project Management tool like Jira but with basic functionality implemented in Spring boot, JPA, Java, Mysql"
 
-      - title: Tempo
+      - title: Pet Clinic (Spring)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "At the time of learing spring implemented this as spring guys have done it to get a good idea about spring framework. Technologies that I have used are Spring boot, JPA, Java."
 
-      - title: Atom
+      - title: Currency Exchange
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "To learn how microservice architecture works created this simple currency exchange application with use of Spring cloud and Neflix cloud stack."
 
-      - title: Delta
+      - title: CMS
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Simple Content Management System with lead generation and Integrated SMS and Email Solution. Implemented in Java, JSP, Bootstrap and Jersey."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Spring Framework (Boot, JPA, Cloud, MVC)
+        level: 87%
 
-      - name: Angular
-        level: 98%
+      - name: AngularJs
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Microservices
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: Maven
+        level: 75%
+
+      - name: Docker
         level: 60%
+
+      - name: Kubernetes
+        level: 50%    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
