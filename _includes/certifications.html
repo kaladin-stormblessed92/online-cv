@@ -1,0 +1,19 @@
+{% assign certifications = site.data.data.sidebar.certifications %}
+{% if appreciations %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Certifications
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for certification in certifications %}
+    <li>{{ certification.name }}
+      <span class="lang-desc">({{ certification.company }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+<!--//interests-->
+{% endif %}

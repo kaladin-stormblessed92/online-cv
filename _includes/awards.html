@@ -1,0 +1,20 @@
+{% assign awards = site.data.data.sidebar.awards %}
+{% if awards %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Awards
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for award in awards %}
+    <li>
+      {{ award.name }}
+      <span class="lang-desc">({{ award.company }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+<!--//interests-->
+{% endif %}

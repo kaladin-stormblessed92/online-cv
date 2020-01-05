@@ -1,0 +1,19 @@
+{% assign appreciations = site.data.data.sidebar.appreciations %}
+{% if appreciations %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Appreciations
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for appreciation in appreciations %}
+    <li>{{ appreciation.name }}
+      <span class="lang-desc">({{ appreciation.company }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+<!--//interests-->
+{% endif %}
