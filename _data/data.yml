@@ -24,25 +24,38 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Professional
+    awards:
+      - name: Star of the Batch 
+        company: TCS
 
-      - idiom: Hindi
-        level: Professional
+      - name: Rising Star 
+        company: eClinicalworks
 
-      - idiom: Gujarati
-        level: Native
+    appreciations:
+      - name: Timely Delivery - Project Mgr. 
+        company: TCS
 
-    interests:
-      - item: Movies
-        link:
+      - name: Bug free Delivery - Module Lead 
+        company: TCS
 
-      - item: Gaming
-        link:
+      - name: Pact - VP 
+        company: eClinicalworks
 
-      - item: Reading Novels
-        link:
+    certifications:
+      - name: Java
+        company: Coursera
+
+      - name: Spring Framework
+        company: Udemy
+
+      - name: Concurrency in Java
+        company:  Udemy
+      
+      - name: Docker for Java
+        company:  Udemy
+        
+      - name: GIT
+        company:  Udemy   
 
 career-profile:
     title: Career Profile
@@ -56,7 +69,7 @@ education:
       university: DHARAMSINH DESAI UNIVERSITY
       time: 2010 - 2014
       details: |
-        CGPA : 8.52
+        CGPA - 8.52
 experiences:
     - role: Software Developer
       time: 2015 - Present
@@ -115,7 +128,7 @@ skills:
       - name: Java
         level: 90%
 
-      - name: Spring Framework (Boot, JPA, Cloud, MVC)
+      - name: Spring Framework
         level: 87%
 
       - name: AngularJs
